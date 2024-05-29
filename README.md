@@ -2,7 +2,11 @@
 
 This is a Tic Tac Toe game implemented in Python using the Tkinter library for the graphical user interface. The game can be played in both single-player (against the computer) and multiplayer (against another player) modes.
 
-<img src="Tic tac toe.png" alt="Tic tac toe" style="width: 200px; height: 300px">
+<div style="display: flex;">
+    <img src="Tic tac toe 1.png" alt="Tic tac toe" style="width: 200px; height: 300px">
+    <img src="Tic tac toe.png" alt="Tic tac toe" style="width: 200px; height: 300px">
+</div>
+
 
 ## Table of Contents
 - [Description](#description)
